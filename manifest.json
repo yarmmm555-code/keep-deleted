@@ -1,7 +1,0 @@
-{
-  "name": "Keep Deleted",
-  "description": "الرسائل المحذوفة تبقى ظاهرة عندك",
-  "authors": [{ "name": "You" }],
-  "main": "index.js",
-  "vendetta": { "icon": "ic_message" }
-}
