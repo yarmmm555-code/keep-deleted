@@ -1,8 +1,0 @@
-{
-  "name": "Keep Deleted",
-  "description": "Keeps deleted messages visible",
-  "authors": [{ "name": "You" }],
-  "main": "index.js",
-  "hash": "1",
-  "vendetta": { "icon": "ic_message" }
-}
